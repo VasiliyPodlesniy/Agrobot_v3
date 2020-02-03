@@ -90,7 +90,59 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Agrobot_2.0\Design Rule Check - Agrobot_2.html
+DocumentPath=Project Outputs for Agrobot_2.0\NC Drill\Agrobot_2.0-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Agrobot_2.0\NC Drill\Agrobot_2.0-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Agrobot_2.0\NC Drill\Agrobot_2.0.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Agrobot_2.0\Gerber\Agrobot_2.0.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Agrobot_2.0\Gerber\Agrobot_2.0.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Agrobot_2.0\Gerber\Agrobot_2.0.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Agrobot_2.0\Gerber\Agrobot_2.0.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Agrobot_2.0\Gerber\Agrobot_2.0.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Agrobot_2.0\Gerber\Agrobot_2.0.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Agrobot_2.0\Gerber\Agrobot_2.0.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Agrobot_2.0\Gerber\Agrobot_2.0.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Agrobot_2.0\NC Drill\Agrobot_2.0.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Agrobot_2.0\Gerber\Agrobot_2.0.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Agrobot_2.0\Gerber\Agrobot_2.0.RUL
 DItemRevisionGUID=
 
 [Configuration1]
