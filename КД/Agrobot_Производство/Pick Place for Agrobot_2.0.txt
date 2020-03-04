@@ -4,8 +4,8 @@ E:\Agrobot_v3\Project Outputs for Agrobot_2.0\Pick Place for Agrobot_2.0.txt
 ========================================================================================================================
 File Design Information:
 
-Date:       28.02.20
-Time:       01:30
+Date:       04.03.20
+Time:       18:32
 Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mm
